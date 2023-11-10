@@ -9,20 +9,20 @@ number:
 date:
 consensus: true
 v: 3
-area: Transport
-workgroup: Delay/Disruption Tolerant Networking
+area: "Applications"
+workgroup: "HyperText Transfer Protocol"
 keyword:
  - HTTP
  - DTN
  - BPv7
  - Bundle Protocol
 venue:
-  group: "Delay/Disruption Tolerant Networking"
+  group: "HyperText Transfer Protocol"
   type: "Working Group"
-  mail: "dtn@ietf.org"
-  arch: "https://mailarchive.ietf.org/arch/browse/dtn/"
+  mail: "http-wg@hplb.hp.com"
+  arch: "https://www.ics.uci.edu/pub/ietf/http/hypermail"
   github: "ricktaylor/http-bp"
-  latest: "https://ricktaylor.github.io/http-bp/draft-taylor-dtn-http-bp.html"
+  latest: "https://ricktaylor.github.io/http-bp/draft-taylor-http-bp.html"
 
 author:
  -
