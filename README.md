@@ -1,3 +1,5 @@
+<!-- regenerate: on (set to off if you edit this file) -->
+
 # HTTP over BPv7
 
 This is the working area for the individual Internet-Draft, "HTTP over BPv7".

@@ -15,10 +15,12 @@ repository constitutes Contributions to the IETF Standards Process
 You agree to comply with all applicable IETF policies and procedures, including,
 BCP 78, 79, the TLP, and the TLP rules regarding code components (e.g. being
 subject to a Simplified BSD License) in Contributions.
+
+
 ## Working Group Information
 
 Discussion of this work occurs on the [HyperText Transfer Protocol
-Working Group mailing list](mailto:http-wg@hplb.hp.com)
+ mailing list](mailto:http-wg@hplb.hp.com)
 ([archive](http://www.ics.uci.edu/pub/ietf/http/hypermail),
 [subscribe](http-wg-request@hplb.hp.com)).
 In addition to contributions in GitHub, you are encouraged to participate in
@@ -28,4 +30,4 @@ discussions there.
 technical issues needs to occur on the mailing list.
 
 You might also like to familiarize yourself with other
-[Working Group documents](https://datatracker.ietf.org/wg/http/documents/).
+[ documents](https://datatracker.ietf.org/wg/http/documents/).
